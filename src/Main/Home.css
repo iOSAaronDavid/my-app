@@ -1,0 +1,35 @@
+.nav-buttons {
+    position: relative;
+    padding-left: 8.86%;
+    padding-right: 8.86%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: orange;
+    border-color: white;
+}
+
+.container {
+    display: flex;
+    height: 200px;
+}
+
+.first-and-last-name {
+    display: flex;
+    /* position: absolute; */
+    font-size: 62px;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+
+.spacer {
+    height: 8px;
+}
+
+.my-image {
+    size: 50px;
+    display: flex;
+    align-items: center;
+    /* position: absolute; */
+}

@@ -1,0 +1,15 @@
+.whiteThinPage {
+    background-color: white;
+    min-width: 320px;
+    width: 600px;
+    height: 100%;
+    padding: 10px;
+}
+
+.silver-background {
+    background: 'silver';
+    height: 100%;
+    display: 'flex';
+    justify-content: 'center';
+    align-items: 'center';
+}
